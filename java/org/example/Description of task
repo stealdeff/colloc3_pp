@@ -1,0 +1,8 @@
+The strategy implements the choice of payment method in the online store. When the user selects an order,
+he gets a choice of several means of payment: his own wallet or credit card.
+PayByPayPal  implements the purchase of a shopping cart online store through  PayPal payment system.
+The client's data is collected and if the client is already logged in, then enter the data for the next payment.
+                                       do not have to.
+PayByCreditCard implements payment for the shopping cart online store credit  customer card.
+In the orders class, an order is placed and in the  main -"The world's first console online store".
+Tests check the correct input of password,cards and etc.
